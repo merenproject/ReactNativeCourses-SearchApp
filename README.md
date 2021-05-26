@@ -2,6 +2,8 @@ React Native Courses Appendix for React Basics
 
 Link: https://merenproject.github.io/ReactNativeCourses-SearchApp/
 
+--------------------------------------------------------------------------------------------------------------------------
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
