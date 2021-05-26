@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ReactNativeCourses-SearchApp/static/css/main.dd5bfacb.chunk.css",
+    "main.js": "/ReactNativeCourses-SearchApp/static/js/main.3e4a3e68.chunk.js",
+    "main.js.map": "/ReactNativeCourses-SearchApp/static/js/main.3e4a3e68.chunk.js.map",
+    "runtime-main.js": "/ReactNativeCourses-SearchApp/static/js/runtime-main.fc461d5c.js",
+    "runtime-main.js.map": "/ReactNativeCourses-SearchApp/static/js/runtime-main.fc461d5c.js.map",
+    "static/css/2.c1f4f5f4.chunk.css": "/ReactNativeCourses-SearchApp/static/css/2.c1f4f5f4.chunk.css",
+    "static/js/2.3eea33b9.chunk.js": "/ReactNativeCourses-SearchApp/static/js/2.3eea33b9.chunk.js",
+    "static/js/2.3eea33b9.chunk.js.map": "/ReactNativeCourses-SearchApp/static/js/2.3eea33b9.chunk.js.map",
+    "index.html": "/ReactNativeCourses-SearchApp/index.html",
+    "static/css/2.c1f4f5f4.chunk.css.map": "/ReactNativeCourses-SearchApp/static/css/2.c1f4f5f4.chunk.css.map",
+    "static/css/main.dd5bfacb.chunk.css.map": "/ReactNativeCourses-SearchApp/static/css/main.dd5bfacb.chunk.css.map",
+    "static/js/2.3eea33b9.chunk.js.LICENSE.txt": "/ReactNativeCourses-SearchApp/static/js/2.3eea33b9.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/ReactNativeCourses-SearchApp/static/media/SEGA.8a619f32.TTF"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.fc461d5c.js",
+    "static/css/2.c1f4f5f4.chunk.css",
+    "static/js/2.3eea33b9.chunk.js",
+    "static/css/main.dd5bfacb.chunk.css",
+    "static/js/main.3e4a3e68.chunk.js"
+  ]
+}
